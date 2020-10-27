@@ -1,5 +1,5 @@
-# OkCert_Nodejs
-OkCert의 인증서비스를 Nodejs로 구성했봤습니다.
+# KCB_OkCert_Nodejs
+KCB의 본인인증 서비스를 Nodejs로 구성했봤습니다.
 
 준비물 :
 -----
