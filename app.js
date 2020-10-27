@@ -5,7 +5,7 @@ var java = require('java')
     , path = require('path')
     , jardist = path.join(path.resolve("."), "OkCert3-java1.5-2.2.3.jar") // Okcert3파일의 경로
     , licensepath = path.join(path.resolve("."), "Vxxxxxxxxxxx_xxxxxx_xxxx_AES_license.dat") // 배포받은 KCB 라이센스파일 경로
-    , CP_CD = "Vxxxxxxxxxxx"; // 패보받은 고객사 코드
+    , CP_CD = "Vxxxxxxxxxxx"; // 배포받은 고객사 코드
 java.options.push("--illegal-access=warn") // JAVA WARNING 감추기
 java.classpath.push(jardist); // Okcert library 불러오기
 
