@@ -3,11 +3,11 @@ OkCert의 인증서비스를 Nodejs로 구성했봤습니다.
 
 준비물 :
 -----
->jdk 1.8.x버전 (jdk8 버전) 저는 openjdk를 사용했습니다. https://github.com/ojdkbuild/ojdkbuild
->java library (npm install java)  설치가 안될경우 하단의 "java설치오류" 확인
->express 또는 그외의 web framwork (npm install express)
->ejs 또는 그외의 express render library (npm install ejs)
->Kcb에게 받은 배포파일 (라이센스파일 // OkCert파일)
+jdk 1.8.x버전 (jdk8 버전) 저는 openjdk를 사용했습니다. https://github.com/ojdkbuild/ojdkbuild
+java library (npm install java)  설치가 안될경우 하단의 "java설치오류" 확인
+express 또는 그외의 web framwork (npm install express)
+ejs 또는 그외의 express render library (npm install ejs)
+Kcb에게 받은 배포파일 (라이센스파일 // OkCert파일)
 
 java설치오류
 -----
