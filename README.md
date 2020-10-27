@@ -11,10 +11,8 @@ Kcb에게 받은 배포파일 (라이센스파일 // OkCert파일)
 
 java설치오류
 -----
->저도 겪었습니다.(linux사용중이면 거의 무조건 나타날껍니다.) node-gyp를 global로 설치를합니다. (npm install -g node-gyp)
->설치가 완료되었다면 npm install java를 다시해줍니다.
-
->끝.
+저도 겪었습니다.(linux사용중이면 거의 무조건 나타날껍니다.) node-gyp를 global로 설치를합니다. (npm install -g node-gyp)
+설치가 완료되었다면 npm install java를 다시해줍니다.
 >>그외의 오류는 모릅니다.
 
 
